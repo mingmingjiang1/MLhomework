@@ -1,14 +1,14 @@
-总共有4个layer1的.txt和layer2的.txt文件，分别对应两个不同任务,其中.-Ind.txt是独立测试集.
 
-KNN.py——code of KNN for these datasets
 
-adaboost.py——code of Adaptive boosting 
+JMM，layer1_figures, layer2_figures：code of CNN by 蒋明明
 
-RF_ML.ipynb——code of Random forest
+CAQ: code of Adaptive boosting  by 曹安蕲
 
-train_layer_1.py, train_layer_2.py, test_layer_1.py, test_layer_2.py——code of CNN 
+JY: code of Random forest by 焦元
 
-SVM.py, read_file.py, read_code.py, Get_ACC.py, calculate_prediction_metrics.py, draw_plot.py——code of SVM
+SZH：code of SVM by 宋忠江
+
+ZL:code of KNN by 赵璐
 
 
 
